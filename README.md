@@ -1,7 +1,7 @@
 <h1 align="center">Vinicius de Araujo 👋</h1>
 
 <p align="center">
-Estudande de Desenvolviemnto de Softwares na Fatec Franca 5/6
+Estudande de Desenvolvimnto de Softwares na Fatec Franca 5/6
 </p>
 
 ---
@@ -39,7 +39,7 @@ Olá! Meu nome é Vinicius, sou apaixonado por tecnologia e pelo desenvolvimento
   - Futuramente: implementação de banco de dados e funcionalidades completas.
 - [**GameReview**](https://github.com/FatecFranca/DSM-P3-G10-2025-1):  
 --- Terceiro Projeto Interdisciplinar do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) na Fatec Franca
-- [**ClickServe**](https://github.com/FatecFranca/DSM-G04-PI4-2025-2):  
+- [**ClickServe**](https://github.com/Vinicius-Araujppp/ClickServe22):  
 --- Quarto Interdisciplinar do curso DSM (Desenvolvimento de Softwares Multi-Plataformas) na Fatec Franca
 
 ## 📫 Vamos Conversar!
