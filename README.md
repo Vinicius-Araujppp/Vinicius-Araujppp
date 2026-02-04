@@ -8,11 +8,8 @@ Estudande de Desenvolvimnto de Softwares na Fatec Franca 5/6
 
 ## Sobre Mim
 
-Olá! Meu nome é Vinicius, sou apaixonado por tecnologia e pelo desenvolvimento de sistemas de qualidade. Estou iniciando minha jornada na área de TI, com uma base sólida em programação estudante da Fatec Franca busco sempre me aperfeiçoar cada vez mais
-
--  Estudante na Fatec Franca, focado em construir uma base forte no desenvolvimento de software.
--  Interesses principais em desenvolvimento back-end, com prática em JavaScript/Typescript e atenção às boas práticas.
--  Sempre explorando novas tecnologias e práticas de qualidade, visando contribuir com projetos de alto impacto.
+Desenvolvedor em Formação
+Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Franca. Minha trajetória é marcada pela transição de uma carreira sólida em vendas para a tecnologia, onde utilizo minha experiência em React, Nodejs, NestJs  para construir soluções eficientes.
 
 ---
 
@@ -24,6 +21,15 @@ Olá! Meu nome é Vinicius, sou apaixonado por tecnologia e pelo desenvolvimento
 </p>
 
 ---
+
+##🎓 Formação Acadêmica
+Tecnólogo em Desenvolvimento de Software Multiplataforma
+FATEC Franca (2024 — 2027)
+
+
+##🛠 Conhecimentos e Tecnologias em Desenvolvimento
+Linguagens e Web: HTML5, CSS3, JavaScript, React, React Native, Nodejs,Nestjs.
+Lógica e Backend: Estrutura de dados e lógica de programação (foco atual em projetos acadêmicos)
 
 ## 📌 Projetos em Destaque
 
