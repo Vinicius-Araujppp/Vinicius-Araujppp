@@ -97,7 +97,7 @@ Site de vendas para uma hamburgueria fictícia, integrando as disciplinas de Eng
 
 Plataforma de avaliação e review de jogos desenvolvida em equipe.
 
-- 🛠 **Stack**: React, Node.js, TypeScript
+- 🛠 **Stack**: React, Node.js, Express.js,Javascript
 - 📌 **Status**: Concluído
 
 ---
@@ -107,8 +107,8 @@ Plataforma de avaliação e review de jogos desenvolvida em equipe.
 
 Sistema de gerenciamento de serviços e atendimentos.
 
-- 🛠 **Stack**: React, NestJS, TypeScript
-- 📌 **Status**: Em desenvolvimento
+- 🛠 **Stack**: React, Node.js, Javascript,Express.js
+- 📌 **Status**: Concluido
 
 ---
 
