@@ -11,7 +11,7 @@
   <a href="mailto:viniciuswkaraujo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Vinicius-Araujppp&color=0077B5&style=for-the-badge&label=Visualizações" alt="Profile views"/>
+  
 </p>
 
 ---
@@ -64,10 +64,12 @@ Tenho experiência prática com **React**, **React Native**, **Node.js**, **Nest
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Araujppp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Araujppp&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=Vinicius-Araujppp&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Araujppp&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
 ---
 
 ## 🎓 Formação Acadêmica
