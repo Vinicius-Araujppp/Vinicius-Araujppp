@@ -4,9 +4,6 @@
   <b>Desenvolvedor Full Stack em Formação · FATEC Franca · 5º/6º Semestre</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+em+Formação;React+%7C+Node.js+%7C+NestJS+%7C+TypeScript;FATEC+Franca+%7C+DSM+5%2F6+Semestre;Da+Negociação+ao+Código+💡" alt="Typing SVG"/>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinícius-araújo-063840275/">
