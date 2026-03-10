@@ -1,75 +1,71 @@
-<h1 align="center">Vinicius de Araujo 👋</h1>
+<h1 align="center">Olá, eu sou Vinicius de Araujo 👋</h1>
 
 <p align="center">
-Estudante de Desenvolvimento de Software na Fatec Franca 5/6
+  <b>Desenvolvedor Full Stack em Formação · FATEC Franca · 5º/6º Semestre</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinícius-araújo-063840275/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:viniciuswkaraujo@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vinicius-Araujppp&color=0077B5&style=for-the-badge&label=Visualizações" alt="Profile views"/>
 </p>
 
 ---
 
 ## 🎯 Sobre Mim
 
-**Desenvolvedor em Formação**
+Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Franca, atualmente no 5º/6º semestre. Minha trajetória é marcada por uma transição de uma carreira sólida em **vendas** para o universo da **tecnologia**, o que me trouxe uma visão única de negócio aliada ao desenvolvimento de software.
 
-Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC Franca. Minha trajetória é marcada pela transição de uma carreira sólida em vendas para a tecnologia, onde utilizo minha experiência em React, Node.js e NestJS para construir soluções eficientes.
+Tenho experiência prática com **React**, **React Native**, **Node.js**, **NestJS** e **TypeScript**, construindo aplicações modernas tanto no front-end quanto no back-end. Apaixonado por aprender, colaborar e criar soluções eficientes.
+
+> 💡 *"Da negociação ao código — transformando experiências em soluções tecnológicas."*
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Tecnologias & Ferramentas
 
-**Linguagens e Ferramentas:**  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
+### Front-end
+...React, React Native, HTML5, CSS3
+
+### Back-end
+...Node.js, NestJS, Express.js
+
+### Linguagens
+...TypeScript, JavaScript
+
+### Banco de Dados & Ferramentas
+...PostgreSQL, MySQL, Git, GitHub, VSCode, Figma
+
+---
+
+## 📊 Estatísticas do GitHub
+
+GitHub Stats + Top Languages cards (tema tokyonight)
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-**Tecnólogo em Desenvolvimento de Software Multiplataforma**  
-FATEC Franca (2024 — 2027)
-
----
-
-## 🛠 Conhecimentos e Tecnologias em Desenvolvimento
-
-- **Linguagens e Web**: HTML5, CSS3, JavaScript, React, React Native, Node.js, NestJS
-- **Lógica e Backend**: Estrutura de dados e lógica de programação (foco atual em projetos acadêmicos)
+Tabela com FATEC Franca — DSM (2024–2027)
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### [**Dinners Burger**](https://github.com/Viniciussinc/Pi_1_Semestre)
-Primeiro Projeto Interdisciplinar do curso DSM (Desenvolvimento de Software Multiplataforma) na Fatec Franca. O objetivo é unir conhecimentos das disciplinas de Engenharia de Software I, Design Digital e Desenvolvimento Web I, criando um site de vendas para uma hamburgueria fictícia.
+🍔 Dinners Burger · 🎮 GameReview · 🖥️ ClickServe
 
-- **Tecnologias usadas**: HTML5, CSS3 e JavaScript (front-end visual)
-- **Próximos passos**: Implementação de banco de dados e funcionalidades completas
+---
 
-### [**GameReview**](https://github.com/FatecFranca/DSM-P3-G10-2025-1)
-Terceiro Projeto Interdisciplinar do curso DSM (Desenvolvimento de Software Multiplataforma) na Fatec Franca.
+## 🌱 Em Aprendizado Contínuo
 
-### [**ClickServe**](https://github.com/Vinicius-Araujppp/ClickServe22)
-Quarto Projeto Interdisciplinar do curso DSM (Desenvolvimento de Software Multiplataforma) na Fatec Franca.
+Barra de progresso em texto para cada tecnologia
 
 ---
 
 ## 📫 Vamos Conversar!
 
-Estou sempre aberto a trocar ideias sobre programação e desenvolvimento. Sinta-se à vontade para entrar em contato:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-araújo-063840275/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuswkaraujo@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinicius-Araujppp&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views"/>
-</p>
+LinkedIn + Gmail badges
