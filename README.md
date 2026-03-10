@@ -31,10 +31,7 @@ Tenho experiência prática com **React**, **React Native**, **Node.js**, **Nest
 
 > 💡 *"Da negociação ao código — transformando experiências em soluções tecnológicas."*
 
-    </td>
-    <td valign="top" width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
-    </td>
+
   </tr>
 </table>
 
