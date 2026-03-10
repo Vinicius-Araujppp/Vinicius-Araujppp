@@ -5,24 +5,38 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+em+Formação;React+%7C+Node.js+%7C+NestJS+%7C+TypeScript;FATEC+Franca+%7C+DSM+5%2F6+Semestre;Da+Negociação+ao+Código+💡" alt="Typing SVG"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/vinícius-araújo-063840275/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:viniciuswkaraujo@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
 </p>
 
 ---
 
 ## 🎯 Sobre Mim
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
 Sou estudante de **Desenvolvimento de Software Multiplataforma** na FATEC Franca, atualmente no 5º/6º semestre. Minha trajetória é marcada por uma transição de uma carreira sólida em **vendas** para o universo da **tecnologia**, o que me trouxe uma visão única de negócio aliada ao desenvolvimento de software.
 
 Tenho experiência prática com **React**, **React Native**, **Node.js**, **NestJS** e **TypeScript**, construindo aplicações modernas tanto no front-end quanto no back-end. Apaixonado por aprender, colaborar e criar soluções eficientes.
 
 > 💡 *"Da negociação ao código — transformando experiências em soluções tecnológicas."*
+
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,12 +78,21 @@ Tenho experiência prática com **React**, **React Native**, **Node.js**, **Nest
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Araujppp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Araujppp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vinicius-Araujppp&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Araujppp&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
+
+<!-- 🐍 Snake contribution graph (requires GitHub Actions setup):
+     https://github.com/Vinicius-Araujppp/Vinicius-Araujppp/blob/output/github-contribution-grid-snake.gif -->
+
 ---
 
 ## 🎓 Formação Acadêmica
