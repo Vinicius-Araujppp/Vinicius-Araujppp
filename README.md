@@ -168,7 +168,6 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 ---
 
-# 📈 Evolução Técnica
 
 
 ---
