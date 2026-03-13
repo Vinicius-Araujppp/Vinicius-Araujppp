@@ -167,3 +167,30 @@ Atualmente estou aprofundando meus conhecimentos em:
 ---
 
 # 📈 Evolução Técnica
+
+
+---
+
+# 🤝 Vamos conversar
+
+Estou aberto a oportunidades como **Desenvolvedor Júnior** ou **Estagiário em Engenharia de Software**.
+
+Se quiser conversar sobre tecnologia, projetos ou colaboração, fique à vontade para entrar em contato.
+
+<p>
+
+<a href="https://www.linkedin.com/in/vinícius-araújo-063840275/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:viniciuswkaraujo@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Se algum projeto te ajudou, considere deixar uma estrela!
+</p>
