@@ -192,8 +192,5 @@ Se quiser conversar sobre tecnologia, projetos ou colaboração, fique à vontad
 
 ---
 
-<p align="center">
-⭐ Se algum projeto te ajudou, considere deixar uma estrela!
-</p>
 
 <img src="https://media.giphy.com/media/v5RFpg0YEaT0No3YAp/giphy.gif" width="1000">
