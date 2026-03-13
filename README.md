@@ -66,7 +66,9 @@ Atualmente concentro meus estudos e projetos no desenvolvimento de **aplicaçõe
 ## Banco de Dados e Ferramentas
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-Banco_de_Dados-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/MongoDB-Banco_de_Dados-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white"/>
