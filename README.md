@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Vinicius de Araujo 👋</h1>
+**<h1 align="center">Olá, eu sou Vinicius de Araujo 👋</h1>
 
 <p align="center">
   <b>Desenvolvedor Full Stack em Formação · FATEC Franca · 5º/6º Semestre</b>
@@ -158,3 +158,4 @@ Estou sempre aberto a trocar ideias sobre programação, projetos e desenvolvime
 <p align="center">
   <i>⭐ Se algum projeto te ajudou, considere deixar uma estrela!</i>
 </p>
+**
