@@ -1,15 +1,19 @@
+<p align="center">
+  <img src="https://files.oaiusercontent.com/file-m0h8mO83VnS3LpU7Yv6xYw?se=2024-05-23T12%3A00%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgithub-banner-vinicius.png" width="100%" alt="Banner Vinicius Araujo">
+</p>
+
 <h1 align="center">Vinicius de Araujo</h1>
 
 <p align="center">
-  <b>Software Engineer | Full Stack Developer | TypeScript Specialist</b>
+  <b>Estudante de Desenvolvimento de Software | Ecossistema JavaScript & TypeScript</b>
 </p>
 
 <p align="center">
-  Engenheiro de Software focado na construção de sistemas escaláveis, resilientes e orientados a performance dentro do ecossistema JavaScript/Node.js.
+  Acadêmico de tecnologia focado na construção de sistemas escaláveis, resilientes e orientados a boas práticas de engenharia de software.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vinícius-araújo-063840275/">
+<a href="https://www.linkedin.com/in/vinicius-araujopp-063840275/">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:viniciuswkaraujo@gmail.com">
@@ -21,9 +25,9 @@
 
 # 🔭 Sobre Mim
 
-Sou desenvolvedor Full Stack com forte base em **Arquitetura de Software** e **Padrões de Projeto**. Minha transição da área comercial para a tecnologia me proporcionou uma visão analítica diferenciada: entendo que código é uma ferramenta para resolver problemas de negócio.
+Atualmente cursando **Desenvolvimento de Software Multiplataforma na FATEC**, busco aplicar rigor acadêmico e técnico em cada linha de código. Minha transição da área de vendas para a tecnologia me deu uma base sólida em **comunicação assertiva** e **visão de produto**, permitindo que eu desenvolva soluções que resolvem dores reais de negócio.
 
-Atualmente, dedico-me a construir APIs robustas e interfaces de alta fidelidade, priorizando sempre a **manutenibilidade** e a **experiência do usuário (UX)**.
+Foco meus estudos na criação de APIs robustas com **NestJS** e interfaces de alta performance com **React**, sempre priorizando a manutenibilidade e padrões modernos de arquitetura.
 
 ---
 
@@ -31,14 +35,14 @@ Atualmente, dedico-me a construir APIs robustas e interfaces de alta fidelidade,
 
 ### Core Development
 - **Linguagens:** TypeScript, JavaScript (ES6+).
-- **Frontend:** React.js, Next.js, Tailwind CSS, Styled Components.
+- **Frontend:** React.js, Next.js, Tailwind CSS.
 - **Backend:** Node.js, NestJS (Arquitetura Modular), Express.js.
 - **Mobile:** React Native.
 
 ### Data & Infrastructure
 - **Bancos de Dados:** PostgreSQL, MySQL, MongoDB.
-- **Ferramentas & DevOps:** Git, Docker, Jest (Testing), GitHub Actions (CI/CD).
-- **Design:** Figma (Prototipagem e Design System).
+- **Ferramentas:** Git, Docker (Containerização), Jest (Testes Unitários).
+- **Design:** Figma (Prototipagem e Design Systems).
 
 ---
 
@@ -46,24 +50,24 @@ Atualmente, dedico-me a construir APIs robustas e interfaces de alta fidelidade,
 
 ### 🚀 [ClickServe](https://github.com/Vinicius-Araujppp/ClickServe22) | Full Stack System
 Sistema de gerenciamento de chamados focado em otimização de fluxo de trabalho.
-- **Destaque Técnico:** Implementação de autenticação JWT, integração de banco de dados relacional e arquitetura de pastas baseada em separação de responsabilidades (SoC).
-- **Tecnologias:** React, Node.js, Express, MySQL.
+- **Destaque Acadêmico:** Aplicação de conceitos de autenticação JWT e modelagem de banco de dados relacional (MySQL).
+- **Tecnologias:** React, Node.js, Express.
 
 ### 🎮 [GameReview](https://github.com/FatecFranca/DSM-P3-G10-2025-1) | Social Platform
 Plataforma de curadoria e reviews de jogos com foco em engajamento.
-- **Destaque Técnico:** Desenvolvimento de consumo de APIs externas e gerenciamento de estado global no frontend.
+- **Destaque Acadêmico:** Gerenciamento de estado global e integração com bancos NoSQL.
 - **Tecnologias:** React, Node.js, MongoDB.
 
 ---
 
-# 🧠 Engenharia e Boas Práticas
+# 🧠 Princípios de Engenharia (Em Prática)
 
-Minha entrega de software é pautada por princípios que garantem a longevidade do produto:
+Mesmo como estudante, minha entrega é pautada por padrões profissionais:
 
-- **SOLID & Clean Code:** Código escrito para humanos, estruturado para máquinas.
-- **Arquitetura de Software:** Familiaridade com Clean Architecture e Domain-Driven Design (DDD).
-- **Testes:** Mentalidade focada em Test-Driven Development (TDD).
-- **Versionamento:** Git Flow e commits semânticos.
+- **SOLID & Clean Code:** Foco em legibilidade e separação de responsabilidades.
+- **Versionamento:** Uso rigoroso de Git Flow e Commits Semânticos.
+- **Modularização:** Construção de sistemas baseados em componentes reutilizáveis.
+- **Documentação:** Preocupação com a clareza técnica e manuais de integração.
 
 ---
 
@@ -76,19 +80,19 @@ Minha entrega de software é pautada por princípios que garantem a longevidade 
 
 ---
 
-# 🎓 Educação e Evolução
+# 🎓 Formação Acadêmica
 
-- **Tecnologia em Desenv. de Software Multiplataforma** — FATEC (2024 - 2027)
-- **Foco atual:** Microserviços, Cloud Computing (AWS/Azure) e Performance de Banco de Dados.
+- **Tecnólogo em Desenvolvimento de Software Multiplataforma**
+  FATEC Franca — 2024 a 2027
 
 ---
 
 # 🤝 Conectar
 
-Estou sempre em busca de desafios técnicos que exijam soluções criativas e escaláveis. Se você busca um desenvolvedor comprometido com a **qualidade técnica** e **resultados de produto**, vamos conversar.
+Busco oportunidades de **Estágio** ou **Desenvolvedor Júnior** onde eu possa contribuir com minha dedicação técnica e aprender com desafios reais de escala.
 
 <p>
-<a href="[https://www.linkedin.com/in/vinícius-araújo-063840275/](https://www.linkedin.com/in/vinicius-araujopp-063840275/)"><b>LinkedIn</b></a> • 
+<a href="https://www.linkedin.com/in/vinicius-araujopp-063840275/"><b>LinkedIn</b></a> • 
 <a href="mailto:viniciuswkaraujo@gmail.com"><b>Email</b></a> • 
 <a href="https://github.com/Vinicius-Araujppp"><b>GitHub</b></a>
 </p>
