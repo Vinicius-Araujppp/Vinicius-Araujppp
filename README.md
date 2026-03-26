@@ -43,17 +43,7 @@ Foco meus estudos na criação de APIs robustas com **NestJS** e interfaces de a
 
 ---
 
-# 📌 Projetos Estratégicos
 
-### 🚀 [ClickServe](https://github.com/Vinicius-Araujppp/ClickServe22) | Full Stack System
-Sistema de gerenciamento de chamados focado em otimização de fluxo de trabalho.
-- **Destaque Acadêmico:** Aplicação de conceitos de autenticação JWT e modelagem de banco de dados relacional (MySQL).
-- **Tecnologias:** React, Node.js, Express.
-
-### 🎮 [GameReview](https://github.com/FatecFranca/DSM-P3-G10-2025-1) | Social Platform
-Plataforma de curadoria e reviews de jogos com foco em engajamento.
-- **Destaque Acadêmico:** Gerenciamento de estado global e integração com bancos NoSQL.
-- **Tecnologias:** React, Node.js, MongoDB.
 
 ---
 
