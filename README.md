@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://files.oaiusercontent.com/file-m0h8mO83VnS3LpU7Yv6xYw?se=2024-05-23T12%3A00%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgithub-banner-vinicius.png" width="100%" alt="Banner Vinicius Araujo">
-</p>
 
 <h1 align="center">Vinicius de Araujo</h1>
 
