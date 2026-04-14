@@ -61,9 +61,8 @@ Mesmo como estudante, minha entrega é pautada por padrões profissionais:
 # 📈 Estatísticas de Desenvolvimento
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Araujppp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/> 
+<img height="180em" src="https://streak-stats.demolab.com?user=Vinicius-Araujppp&theme=tokyonight"/>
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Araujppp&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
